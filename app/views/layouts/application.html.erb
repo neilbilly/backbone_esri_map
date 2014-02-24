@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>BackboneEsriMap</title>
+  <%= stylesheet_link_tag "http://js.arcgis.com/3.8/js/esri/css/esri.css", "application", :media => "all" %>
+  <%= javascript_include_tag "application", "http://js.arcgis.com/3.8/" %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+<%= yield %>
+
+</body>
+</html>
