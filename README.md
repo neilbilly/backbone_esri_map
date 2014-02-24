@@ -1,4 +1,4 @@
-Google Map on Backbone.js
+ESRI Map on Backbone.js
 =========================
 ## Overview
 Simple example demonstrating how ArcGIS API for JavaScript can be used with Backbone.js
